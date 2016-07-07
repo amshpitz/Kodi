@@ -139,9 +139,9 @@
 </addon>
 <addon id="repository.lahav" name="kodi lahav repository" version="1.0.4" provider-name="amos lahav">
 	<extension point="xbmc.addon.repository" name="kodi lahav repository">
-			<info compressed="false">https://raw.githubusercontent.com/amshpitz/repository.lahav/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/amshpitz/repository.lahav/b21bb5ce91fac0814d0f0125c4d13d4300bc43c2/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/amshpitz/repository.lahav/raw/master/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/amshpitz/Kodi/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/amshpitz/Kodi/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/amshpitz/Kodi/raw/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">kodi- amos Lahav repo</summary>
