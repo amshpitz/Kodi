@@ -123,7 +123,7 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.program.lahavtools" name="[COLOR green]Lahav tools[/COLOR]" version="1.0.2" provider-name="kodi Lahav">
+<addon id="plugin.program.lahavtools" name="[COLOR green]Lahav tools[/COLOR]" version="1.0.3" provider-name="kodi Lahav">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
