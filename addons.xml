@@ -123,7 +123,7 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.program.lahavtools" name="[COLOR green]Lahav tools[/COLOR]" version="1.0.3" provider-name="kodi Lahav">
+<addon id="plugin.program.lahavtools" name="[COLOR green]senyor Lahav tools[/COLOR]" version="1.4.0" provider-name="kodi senyor Lahav">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
@@ -132,7 +132,7 @@
         <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">kodi-senyor - Lahav kodi tools and tweaks</summary>
+    <summary lang="en">kodi-senyor.co.il kodi tools and tweaks</summary>
     <description lang="he">הרחבה ייחודית של קודי סניור המאפשרת התקנת הרחבות והגדרות מערכת בקליק אחד</description>
     <platform>all</platform>
   </extension>
